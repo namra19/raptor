@@ -57,4 +57,6 @@ eg) [
 8) Copy this json and paste for other feature and repeat the same steps.
 9) Add a new test with the new file name.
 
+We have added multi browser support with Chrome and IE at the moment, Firefox works differently in logging so that support we will add later
+
 
